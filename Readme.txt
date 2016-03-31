@@ -44,3 +44,14 @@ To run the Cholesky inversion algorithm, you need:
 	using the data-dependence matrix in mat_cholesky.dep.
 	
 	6/5/2014
+	
+Publications:
+
+[1] Zhang, P., Ling, L., Deng, Y., "A Data-driven Paradigm for Mapping Problems", Parallel Computing, vol. 48, pp. 108-124, 2015. DOI: 10.1016/j.parco.2015.05.002
+[2] Zhang, P., Gao, Y., "Matrix Multiplication on High-Density Multi-GPU Architectures: Theoretical and Experimental Investigations", in Lecture Notes in Computer Science, vol. 9137, pp 17-30, 20 June 2015. DOI: 10.1007/978-3-319-20119-1_2
+[3] Zhang, P., Gao, Y., Qiu, M., "A Data-oriented Method for Scheduling Dependent Tasks on High-density Multi-GPU Systems", in High Performance Computing and Communications (HPCC), 2015 IEEE 17th International Conference on, New York, NY, August 24-26, 2015, pp. 694-699. DOI: 10.1109/HPCC-CSS-ICESS.2015.314
+
+By Dr. Peng Zhang
+URL: https://www.researchgate.net/profile/Peng_Zhang79
+
+3/31/2016
